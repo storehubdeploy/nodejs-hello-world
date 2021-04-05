@@ -1,0 +1,19 @@
+{
+  "name": "nodejs-hello-world",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/storehubdeploy/nodejs-hello-world.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/storehubdeploy/nodejs-hello-world/issues"
+  },
+  "homepage": "https://github.com/storehubdeploy/nodejs-hello-world#readme"
+}

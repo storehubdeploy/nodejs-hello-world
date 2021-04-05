@@ -1,0 +1,13 @@
+--
+name: helloworld
+kind: service
+tasks:
+  - name: artifacts
+    kind: Docker
+    images:
+      - name: test1
+        path: "./"
+        DockerFile: dockerfile
+      - name: test2
+        path: "./"
+        DockerFile: dockerfile
